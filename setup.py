@@ -9,7 +9,7 @@ setuptools.setup(
     description='QZSS DCR Decoder',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/nbtk/azarashi',
+    url='https://github.com/nezumi-tech/azarashi',
     author='nbtk',
     license='MIT',
     classifiers=[
